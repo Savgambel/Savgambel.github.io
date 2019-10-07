@@ -1,0 +1,117 @@
+html	{
+		padding: 0;
+		margin: 0;
+		}
+body	{
+		padding: 55px;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 13px;
+		line-height: 16px;
+		background-color:#f1f2f3 ;
+		}
+		
+
+		
+header{
+		padding: 40px;
+		background-color:#ffe6e6;
+		-webkit-border-radius: 15px 15px 0 0;
+		border-radius: 15px 15px 0 0;
+		-webkit-box-shadow: 3px 3px 3px 5px #D4D4D4;
+		box-shadow: 3px 3px 3px 5px #D4D4D4;
+		border-bottom: 10px light grey;
+}
+	}
+nav{
+	float: left;
+	margin-bottom:30px;
+}
+
+main{
+	clear:left;
+	padding-left:60px;
+font-size: 15px;
+font-family: Georgia, "Times New Roman", Times, serif
+}
+
+p{
+text-line: left;
+line-height: 1.2;}
+
+img{ 
+border: solid black;
+float: right;}
+
+footer{
+	background-color: #ffe6e6;
+	padding: 40px;
+	-webkit-border-radius: 0 0 15px 15px;
+		border-radius: 0 0 15px 15px;
+}
+
+h1	{
+	color: #1a001a;
+	background-color:#ffe6ff;
+	padding: 15px;
+	font-size: 55px;
+}
+
+
+h2	{
+		font-size: 21px;
+		margin-top: 14px;
+		margin-bottom: 7px;
+	
+}
+h3	{
+	margin-top: 14px;
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-size: 16px;
+}
+	
+footer p{ 
+		text-align: center;
+		}
+	/*This styles removes the bullet from each list item, stacks each list item horizontally, creates a button appearance.*/	
+	
+
+nav ul li{ 
+			list-style-type: none;
+			float: left;
+			padding: 25px;
+			margin-right: 20px;
+			background-color:#ffe6e6 ;
+}
+/*This style removes the underline from the hyperlink.*/
+
+nav li a{
+	text-decoration: none;
+	color:#a6a6a6 ;
+}
+/* This style changes the text color when the mouse hovers over it.*/
+
+nav li a:hover{
+	color: #92908F;
+}
+
+.job-title{
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+}
+
+.job-place{
+	font-style: italic;
+	padding: 0;
+	margin: 0;
+}
+
+.job-dates{
+	padding: 0;
+	margin: 0;
+}
+.homemain{
+height: 500px;}
+
+
+	
